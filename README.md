@@ -1,4 +1,4 @@
-# Interactive rating component solution
+# Interactive rating component
 
 ## Overview
 
