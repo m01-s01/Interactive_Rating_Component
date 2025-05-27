@@ -1,21 +1,6 @@
-# Frontend Mentor - Interactive rating component solution
-
-This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [Concepts Used](#concepts-used)
-- [Author](#author)
+# Interactive rating component solution
 
 ## Overview
-
-### The challenge
 
 Users should be able to:
 
@@ -33,14 +18,6 @@ Users should be able to:
 **Snapshot of `Thank you card` at desktop width 1440px**
 
 ![](images/Interactive-snap-2.png)
-
-### Links
-
-- Solution URL: [Source Code](https://github.com/SoniBasant/Frontend-Mentor-Projects/tree/main/B2-Interactive-Rating-Component)
-
-- Live Site URL: [Live Link](https://sonibasant.github.io/Frontend-Mentor-Projects/B2-Interactive-Rating-Component/index.html)
-
-## My process
 
 ### Built with
 
@@ -84,10 +61,4 @@ rating.innerHTML = `You selected ${ratingValue} out of 5`;
 
 ## Author
 
-Basant Soni 👨‍💻
-
-- GitHub - [@SoniBasant](https://github.com/SoniBasant)
-
-- Frontend Mentor - [@SoniBasant](https://www.frontendmentor.io/profile/SoniBasant)
-- CodePen - [@SoniBasant](https://codepen.io/sonibasant)
-- Hashnode - [@SoniBasant](https://sonibasant.hashnode.dev/)
+Meenu Soni 👨‍💻
